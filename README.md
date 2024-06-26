@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=slice&color=0:d36fc5,100:9b1c84&height=120&text=Eun%20Koo&animation=blinking&fontColor=c9aada&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 신입개발자 </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Global Tech Marketer </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 저는 성장과 커뮤니케이션을 가장 중요하게 생각하는 글로벌 테크 마케터 입니다. </div> 
     </div>
     <div style="text-align: left;">
@@ -28,13 +28,13 @@
           </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📞 Contact me </h2> <br> 
     <div align= "center"> <a href=https://velog.io/@eunkoo> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@eunkoo"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=EunnyKoo&bg_color=180,000000,&title_color=000000&text_color=000000"
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Status </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=EunnyKoo&bg_color=180,000000,&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EunnyKoo&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
            /> </div> 
     </div>
